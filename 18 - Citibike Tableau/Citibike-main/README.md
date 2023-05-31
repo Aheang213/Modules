@@ -10,9 +10,6 @@ NYC Citibike with Tableau
 ## Overview of the statistical analysis:
 Des Moines requested data for a business proposal.  August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for Des Moines.  Other data points include usage durations, peak usage times, and the key target market. 
 
-## Link to Tableau Story: 
-[Tableau Story](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Story1?publish=yes)
-
 ## Cleaning the Data:
 Jupyter Notebook was used to change the trip duration data to a datetime field.
 ![Pic](https://github.com/Baylex/Citibike/blob/main/Challenge/images/before_transformation.PNG)
